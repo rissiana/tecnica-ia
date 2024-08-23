@@ -1,1 +1,1 @@
-# tecnica-ia
+# tecnicas
